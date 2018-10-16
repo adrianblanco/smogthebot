@@ -60,39 +60,7 @@ table {
 
 
 /*** FONTS ***/
-@font-face {
-    font-family: 'milio-font';
-    src: url('http://www.ecestaticos.com/fonts/milio/Milio-Demibold.eot?1');
-    src: url('http://www.ecestaticos.com/fonts/milio/Milio-Demibold.eot?1#iefix') format('embedded-opentype'),
-     url('http://www.ecestaticos.com/fonts/milio/Milio-Demibold.woff?1') format('woff?1'),
-     url('http://www.ecestaticos.com/fonts/milio/Milio-Demibold.ttf?1') format('truetype'),
-     url('http://www.ecestaticos.com/fonts/milio/Milio-Demibold.svg?1#milioregular') format('svg');
-    font-weight: 400;
-    font-style: normal;
-}
 
-@font-face{
-    font-family:'milio-font';
-    src:url('http://www.elconfidencial.com/fonts/generic/milio-heavy-italic/milio-heavy-italic-webfont.eot?2');
-    src:url('http://www.elconfidencial.com/fonts/generic/milio-heavy-italic/milio-heavy-italic-webfont.eot?2#iefix') format('embedded-opentype'),
-        url('http://www.elconfidencial.com/fonts/generic/milio-heavy-italic/milio-heavy-italic-webfont.woff2?2') format('woff2'),
-        url('http://www.elconfidencial.com/fonts/generic/milio-heavy-italic/milio-heavy-italic-webfont.woff?2') format('woff'),
-        url('http://www.elconfidencial.com/fonts/generic/milio-heavy-italic/milio-heavy-italic-webfont.ttf?2') format('truetype'),
-        url('http://www.elconfidencial.com/fonts/generic/milio-heavy-italic/milio-heavy-italic-webfont.svg?2#milioheavyitalic') format('svg');
-    font-weight:700;
-    font-style:italic;
-}
-@font-face{
-    font-family:'milio-font';
-    src:url('http://www.elconfidencial.com/fonts/generic/milio-heavy/milio-heavy-webfont.eot?2');
-    src:url('http://www.elconfidencial.com/fonts/generic/milio-heavy/milio-heavy-webfont.eot?2#iefix') format('embedded-opentype'),
-        url('http://www.elconfidencial.com/fonts/generic/milio-heavy/milio-heavy-webfont.woff2?2') format('woff2'),
-        url('http://www.elconfidencial.com/fonts/generic/milio-heavy/milio-heavy-webfont.woff?2') format('woff'),
-        url('http://www.elconfidencial.com/fonts/generic/milio-heavy/milio-heavy-webfont.ttf?2') format('truetype'),
-        url('http://www.elconfidencial.com/fonts/generic/milio-heavy/milio-heavy-webfont.svg?2#milioheavy') format('svg');
-    font-weight:700;
-    font-style:normal;
-}
 
 /*** HELPERS ***/
 .clearfix:before,
